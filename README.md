@@ -1,13 +1,13 @@
-# Política de Privacidade – Nabru Player
+# Política de Privacidade – The Player
 
 **Última atualização:** 08 de setembro de 2026
 
-O **Nabru Player** respeita e valoriza a sua privacidade. Esta Política foi elaborada de maneira clara, direta e objetiva para explicar como o aplicativo opera e como os dados dos usuários são tratados em conformidade com as diretrizes do Google Play e legislações de proteção de dados (LGPD / GDPR).
+O **The Player** respeita e valoriza a sua privacidade. Esta Política foi elaborada de maneira clara, direta e objetiva para explicar como o aplicativo opera e como os dados dos usuários são tratados em conformidade com as diretrizes do Google Play e legislações de proteção de dados (LGPD / GDPR).
 
 ---
 
 ### 1. Sobre a Finalidade do Aplicativo
-O **Nabru Player** é estritamente uma ferramenta reprodutora multimídia de uso pessoal. O aplicativo **NÃO** hospeda, fornece, comercializa, indexa ou distribui nenhum tipo de conteúdo de vídeo, áudio, canais de televisão ou listas de transmissão.
+O **The Player** é estritamente uma ferramenta reprodutora multimídia de uso pessoal. O aplicativo **NÃO** hospeda, fornece, comercializa, indexa ou distribui nenhum tipo de conteúdo de vídeo, áudio, canais de televisão ou listas de transmissão.
 
 Todo o conteúdo acessado ou executado no aplicativo é adicionado de maneira voluntária e exclusiva pelo próprio usuário por meio de suas próprias fontes, links e listas de reprodução (M3U / URLs).
 
@@ -30,7 +30,7 @@ Para assegurar o funcionamento das funcionalidades básicas do reprodutor, os se
 ---
 
 ### 4. Permissões Solicitadas
-O Nabru Player utiliza apenas as permissões essenciais para execução técnica das suas funções:
+O The Player utiliza apenas as permissões essenciais para execução técnica das suas funções:
 - **Acesso à Internet e Estado da Rede (`INTERNET`, `ACCESS_NETWORK_STATE`):** Necessário para baixar o fluxo de transmissão dos links de mídia fornecidos pelo usuário.
 - **Acesso à Rede Local e Wi-Fi (`ACCESS_WIFI_STATE`):** Utilizado pelo protocolo Google Cast para localizar Smart TVs ou dispositivos Chromecast conectados à mesma rede local.
 - **Feedback Háptico (`VIBRATE`):** Para resposta tátil ao pressionar botões interativos na tela.
@@ -43,7 +43,7 @@ O aplicativo pode fazer uso de componentes essenciais da plataforma Android, tai
 ---
 
 ### 6. Isenção de Responsabilidade (Disclaimer)
-O Nabru Player não tem relação, patrocínio ou vínculo com provedores de transmissão ou listas terceiras. O usuário é o único responsável pela legalidade e legitimidade das fontes que decide reproduzir na aplicação.
+O The Player não tem relação, patrocínio ou vínculo com provedores de transmissão ou listas terceiras. O usuário é o único responsável pela legalidade e legitimidade das fontes que decide reproduzir na aplicação.
 
 ---
 
